@@ -1,0 +1,13 @@
+R558S	KEYWORD1
+Fingerprint	KEYWORD1
+FingerprintSensor	KEYWORD1
+getImage	KEYWORD2
+image2Tz	KEYWORD2
+createModel	KEYWORD2
+storeModel	KEYWORD2
+deleteModel	KEYWORD2
+emptyDatabase	KEYWORD2
+searchFinger	KEYWORD2
+waitForFinger	KEYWORD2
+waitForRemoval	KEYWORD2
+setLED	KEYWORD2
